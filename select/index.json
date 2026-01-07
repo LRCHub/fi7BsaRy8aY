@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Breaking Dimensions",
+  "base_artist": "hololive English",
+  "createdAt": "2026-01-07T05:02:29.189902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breaking Dimensions",
+      "artist": "hololive English",
+      "has_synced": true,
+      "path": "select/01_Breaking_Dimensions_hololive_English.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breaking Dimensions",
+      "artist": "hololive English",
+      "has_synced": true,
+      "path": "select/02_Breaking_Dimensions_hololive_English.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breaking Dimensions",
+      "artist": "hololive English",
+      "has_synced": false,
+      "path": "select/pl_01_Breaking_Dimensions_hololive_English.txt"
+    }
+  ]
+}
